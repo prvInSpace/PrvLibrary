@@ -1,2 +1,2 @@
 # PrvLibrary
-PrvLibrary is Prv's Little abit of Everything Library
+PrvLibrary is Prv's Little Bit of Everything Library
