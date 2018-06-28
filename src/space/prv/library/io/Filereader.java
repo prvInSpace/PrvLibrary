@@ -21,6 +21,6 @@ public class Filereader {
                 e.printStackTrace();
             }
         }
-        return (String[]) lines.toArray();
+        return lines.toArray(new String[lines.size()]);
     }
 }
